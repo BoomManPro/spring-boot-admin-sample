@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 import reactor.core.publisher.Mono;
 
 /**
- * @author <a href="mailto:wangqimeng@mininglamp.com">wangqimeng</a>
+ * @author <a href="mailto:boommanpro@gmail.com">boommanpro</a>
  * @date 2019/8/29 14:20
  * @created by wangqimeng
  */

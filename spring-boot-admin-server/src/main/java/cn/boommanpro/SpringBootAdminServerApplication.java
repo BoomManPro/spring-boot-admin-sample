@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
 /**
- * @author <a href="mailto:wangqimeng@mininglamp.com">wangqimeng</a>
+ * @author <a href="mailto:boommanpro@gmail.com">boommanpro</a>
  * @date 2019/8/29 14:03
  * @created by wangqimeng
  */
